@@ -67,7 +67,7 @@ This investigation demonstrated structured Tier 1 SOC triage, authentication eve
 
 ### Successful Logon After Attempts (Event ID 4624)
 
-![Successful Logon](screenshots/4624_successful_logon_wazuh.jpg)
+![Successful Logon](../02-authentication-attack-detection/screenshots/4624_successful_logon_wazuh.jpg)
 
 ### Source of Brute Force Attempt
 
