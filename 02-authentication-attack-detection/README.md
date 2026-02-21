@@ -48,7 +48,7 @@ The objective was to validate detection capability and assess whether the observ
 
 # Test
 
-![Test](4624_successful_logon_wazuh.jpg)
+![Successful Logon](4624_succesful_logon_wazuh.jpg)
 
 ### Source of Brute Force Attempt
 
