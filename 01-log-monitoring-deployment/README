@@ -1,0 +1,43 @@
+# Project 01 – Windows Log Monitoring Deployment & Validation
+
+## Objective
+
+To deploy and configure Wazuh SIEM within a virtualised lab environment and validate successful ingestion and classification of Windows Security Event logs.
+
+---
+
+## Environment
+
+- Wazuh SIEM (OVA deployment)
+- Windows 10 endpoint
+- VMware Workstation
+- Isolated host-only network
+
+---
+
+## Deployment & Configuration
+
+- Deployed Wazuh server using official OVA image.
+- Installed and enrolled Windows agent using a pre-shared authentication key.
+- Verified secure communication on port 1514.
+- Resolved duplicate agent registration issue.
+- Confirmed agent status transitioned to **Active**.
+
+---
+
+## Log Ingestion Validation
+
+Approximately 800 Windows Security events successfully ingested.
+
+Validated detection and parsing of:
+
+- Event ID 4625 – Failed logon
+- Event ID 7040 – Service configuration change
+
+Confirmed rule classification and field extraction were functioning correctly.
+
+---
+
+## Outcome
+
+The SIEM platform successfully ingested and classified Windows Security logs, establishing a functional monitoring baseline for further investigation scenarios.
