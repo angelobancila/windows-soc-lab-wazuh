@@ -52,3 +52,23 @@ Analysis steps included:
 The activity was classified as a simulated brute force authentication attempt resulting in account lockout, with no evidence of successful credential compromise.
 
 This investigation demonstrated structured Tier 1 SOC triage, authentication event correlation, and incident classification capability.
+
+---
+
+## Supporting Evidence
+
+### Multiple Failed Logon Attempts (Event ID 4625)
+
+![Failed Logon Attempts](screenshots/4625_failed_logon_brute_force_wazuh.jpg)
+
+### Account Lockout Triggered (Event ID 4740)
+
+![Account Lockout](screenshots/4740_account_lockout_detected_wazuh.jpg)
+
+### Successful Logon After Attempts (Event ID 4624)
+
+![Successful Logon](screenshots/4624_successful_logon_wazuh.jpg)
+
+### Source of Brute Force Attempt
+
+![Brute Force Source](screenshots/Brute_force_attempt_user_source.jpg)
