@@ -54,4 +54,6 @@ The objective was to validate detection capability and assess whether the observ
 
 ![Brute Force Attempt](Brute_force_attempt_user_socuser.jpg)
 
+---
+
 The activity was classified as a simulated brute force attempt resulting in account lockout, with no successful authentication observed.
