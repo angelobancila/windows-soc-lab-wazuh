@@ -52,7 +52,7 @@ The objective was to validate detection capability and assess whether the observ
 
 ### Source of Brute Force Attempt
 
-![Brute Force Attempt](Brute _force_attempt_user_socuser.jpg)
+![Source of Brute Force Attempt – socuser](Brute_force_attempt_user_socuser.jpg)
 
 ---
 
