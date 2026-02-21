@@ -67,4 +67,4 @@ This investigation demonstrated structured Tier 1 SOC triage, authentication eve
 
 ### Successful Logon After Attempts (Event ID 4624)
 
-![Successful Logon](PASTE_PATH_HERE)
+![Successful Logon](./screenshots/4624_successful_logon_wazuh.jpg)
