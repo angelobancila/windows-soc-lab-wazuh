@@ -34,4 +34,24 @@ The objective was to validate detection capability and assess whether the observ
 
 ## Outcome
 
+---
+
+## Supporting Evidence
+
+### Failed Logon Attempts (Event ID 4625)
+
+![Failed Logon Attempts](4625_failed_logon_brute_force_wazuh.jpg)
+
+### Account Lockout (Event ID 4740)
+
+![Account Lockout](4740_account_lockout_detected_wazuh.jpg)
+
+### Successful Logon (Event ID 4624)
+
+![Successful Logon](4624_successful_logon_wazuh.jpg)
+
+### Source of Brute Force Attempt
+
+![Brute Force Attempt](Brute_force_attempt_user_socuser.jpg)
+
 The activity was classified as a simulated brute force attempt resulting in account lockout, with no successful authentication observed.
