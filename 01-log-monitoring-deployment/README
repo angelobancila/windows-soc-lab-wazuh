@@ -40,4 +40,4 @@ Confirmed rule classification and field extraction were functioning correctly.
 
 ## Outcome
 
-The SIEM platform successfully ingested and classified Windows Security logs, establishing a functional monitoring baseline for further investigation scenarios.
+This deployment established a reliable monitoring baseline for future authentication and privilege escalation investigations.
