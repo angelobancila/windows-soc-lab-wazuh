@@ -71,4 +71,4 @@ This investigation demonstrated structured Tier 1 SOC triage, authentication eve
 
 ### Source of Brute Force Attempt
 
-![Brute Force Source](screenshots/Brute_force_attempt_user_socuser.jpg)
+![Brute Force Socuser](screenshots/Brute_force_attempt_user_socuser.jpg)
