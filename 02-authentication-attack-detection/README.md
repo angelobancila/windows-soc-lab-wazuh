@@ -46,9 +46,9 @@ The objective was to validate detection capability and assess whether the observ
 
 ![Account Lockout](4740_account_lockout_detected_wazuh.jpg)
 
-### Successful Logon After Attempts (Event ID 4624)
+# Test
 
-![Successful Logon](4624_successful_logon_wazuh.jpg)
+![Test](4624_successful_logon_wazuh.jpg)
 
 ### Source of Brute Force Attempt
 
