@@ -49,8 +49,10 @@ The purpose of this lab was to simulate real-world Tier 1 SOC investigations, fo
 - Event Correlation
 - Tier 1 SOC Investigation Workflow
 - Incident Classification
-- Authentication Attack Detection
+-  Authentication Attack Detection
   
+ ---
+
 ## Project Structure
 
 - 01 – Log Monitoring Deployment
