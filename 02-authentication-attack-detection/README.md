@@ -64,11 +64,3 @@ This investigation demonstrated structured Tier 1 SOC triage, authentication eve
 ### Account Lockout Triggered (Event ID 4740)
 
 ![Account Lockout](screenshots/4740_account_lockout_detected_wazuh.jpg)
-
-### Successful Logon After Attempts (Event ID 4624)
-
-![Successful Logon](screenshots/4624_successful_logon_wazuh.jpg)
-
-### Source of Brute Force Attempt
-
-![Brute Force Attempt](screenshots/Brute_force_attempt_user_socuser.jpg)
