@@ -58,3 +58,21 @@ No successful credential compromise was identified.
 ## Outcome
 
 This project demonstrated the ability to differentiate between benign authentication errors and malicious brute force behaviour, reinforcing core Tier 1 SOC analytical skills in log interpretation and attack pattern recognition.
+
+## Supporting Evidence
+
+### Logon Audit Policy Enabled
+
+![Logon Audit Enabled](screenshots/Logon_Audit_Enabled.jpg)
+
+---
+
+### Multiple Failed Logon Attempts (Event ID 4625)
+
+![Multiple 4625 Failed Logons](screenshots/Multiple_4625_Failed_Logons.jpg)
+
+---
+
+### Failed Logon Event Details (4625)
+
+![4625 Event Details](screenshots/4625_Event_Details.jpg)
