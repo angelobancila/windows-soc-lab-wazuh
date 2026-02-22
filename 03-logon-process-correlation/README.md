@@ -52,3 +52,33 @@ No anomalous or unauthorised command execution was identified during the investi
 ## Outcome
 
 This project demonstrated the ability to reconstruct user session activity through event correlation, a critical capability for Tier 1 SOC investigations involving suspicious account activity or potential privilege abuse.
+
+## Supporting Evidence
+
+### Successful Logon (Event ID 4624)
+
+![Successful Logon](screenshots/4624_successful_logon_labuser.jpg)
+
+---
+
+### Special Privileges Assigned (Event ID 4672)
+
+![Special Privileges Assigned](screenshots/4672_special_privileges_assigned_labuser.jpg)
+
+---
+
+### Process Creation – PowerShell Execution (Event ID 4688)
+
+![Process Creation](screenshots/4688_powershell_execution.jpg)
+
+---
+
+### Logon ID Correlation – 4624
+
+![Logon ID 4624](screenshots/logonid_correlation_4624.jpg)
+
+---
+
+### Logon ID Correlation – 4688
+
+![Logon ID 4688](screenshots/logonid_correlation_4688.jpg)
