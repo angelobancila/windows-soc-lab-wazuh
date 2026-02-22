@@ -49,3 +49,45 @@ No unauthorised privilege escalation was confirmed, as the activity was generate
 ## Outcome
 
 This project demonstrated the ability to detect and investigate potential privilege escalation scenarios, correlate user activity, and assess the security impact of account creation events within a SOC workflow.
+
+## Supporting Evidence
+
+### Audit Policy – User Account Management Enabled
+
+![User Account Management Audit](screenshots/User_Account_Management_Audit_Enabled.jpg)
+
+---
+
+### Audit Policy – Security Group Management Enabled
+
+![Security Group Management Audit](screenshots/Security_Group_Management_Audit_Enabled.jpg)
+
+---
+
+### Process Creation Command-Line Logging Enabled
+
+![Process Creation Command Line Enabled](screenshots/Process_Creation_CommandLine_Enabled.jpg)
+
+---
+
+### Failed User Creation Attempt (Access Denied)
+
+![Failed User Creation](screenshots/Failed_User_Creation-socuser.jpg)
+
+---
+
+### Process Creation – cmd.exe Execution (Event ID 4688)
+
+![4688 cmd Execution](screenshots/4688-cmd-socuser.jpg)
+
+---
+
+### Process Creation – net user Attempt (Event ID 4688)
+
+![4688 net user Attempt](screenshots/4688-net-user-attempt.jpg)
+
+---
+
+### No Event ID 4720 – User Not Created
+
+![No 4720 Event](screenshots/No_4720_User_Created.jpg)
