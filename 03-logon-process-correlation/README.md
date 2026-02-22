@@ -57,7 +57,7 @@ This project demonstrated the ability to reconstruct user session activity throu
 
 ### Successful Logon (Event ID 4624)
 
-![Successful Logon](screenshots/4624_successful_logon_labuser.jpg)
+![Successful Logon](screenshots/4624_succesful_logon_labuser.jpg)
 
 ---
 
@@ -69,16 +69,16 @@ This project demonstrated the ability to reconstruct user session activity throu
 
 ### Process Creation – PowerShell Execution (Event ID 4688)
 
-![Process Creation](screenshots/4688_powershell_execution.jpg)
+![Process Creation](screenshots/4688_PowerShell_Execution.jpg)
 
 ---
 
 ### Logon ID Correlation – 4624
 
-![Logon ID 4624](screenshots/logonid_correlation_4624.jpg)
+![Logon ID 4624](screenshots/LogonID_Correlation_4624.jpg)
 
 ---
 
 ### Logon ID Correlation – 4688
 
-![Logon ID 4688](screenshots/logonid_correlation_4688.jpg)
+![Logon ID 4688](screenshots/LogonID_Correlation_4688.jpg)
